@@ -1,5 +1,5 @@
 import './App.css'
-import DadJokes from './04-dog-pics/DogPics'
+import DadJokes from './components/DogPics'
 
 function App () {
   return (
