@@ -1,4 +1,4 @@
-tml, body {
+html, body {
   font-family: sans-serif;
 }
 
@@ -57,4 +57,10 @@ input[type=submit] {
   align-items: center;
   justify-content: center;
   margin-top: 50px;
+}
+
+.dog-pics img {
+  width: 500px;
+  height:400px;
+  object-fit: contain;
 }
