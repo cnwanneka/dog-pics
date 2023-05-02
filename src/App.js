@@ -1,12 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import DadJokes from './04-dog-pics/DogPics'
 
-function App() {
+function App () {
   return (
-    <div className="App">
-      
+    <div className='App'>
+      <DadJokes />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
+
